@@ -1,0 +1,46 @@
+{
+  "apps" : {
+    "calculator" : {
+      "name" : "calculator",
+      "icon" : "https://lh3.googleusercontent.com/U3jWNUNqn2XqlNhD2ggy6ELAtt0jRps9MKbfERUWcOBO8uC_BmZUqCKV5eD2uarhg14=s180-rw",
+      "url" : "/pages/calculator.php",
+      "favorite" : true
+    },
+    "stickman_rope" : {
+      "name" : "Stickman rope",
+      "icon" : "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/58/5f/e1/585fe19a-f77f-f66a-3d3c-c195d70cf9af/AppIcon-0-1x_U007emarketing-0-85-220-7.png/246x0w.jpg",
+      "url" : "/pages/rope.php",
+      "favorite" : false
+    },
+    "binary" : {
+      "name" : "Binary translator",
+      "icon" : "https://media.cdnandroid.com/07/2a/38/0a/imagen-binary-code-translator-0big.jpg",
+      "url" : "/pages/binary.php",
+      "favorite" : false
+    },
+    "clock" : {
+      "name" : "Binary clock",
+      "icon" : "https://images-eu.ssl-images-amazon.com/images/I/61n252YpctL.png",
+      "url" : "/pages/clock.php",
+      "favorite" : true
+    },
+    "humanity" : {
+      "name" : "Humanity is dead",
+      "icon" : "https://img.itch.zone/aW1nLzE2NTkxODcucG5n/315x250%23c/OiX9Sl.png",
+      "url" : "/pages/humanity.php",
+      "favorite" : false
+    },
+    "beat_racer" : {
+      "name" : "Beat racer",
+      "icon" : "https://i.kukupao.com/orig/256d1716223712ce767615df63a7a4b7",
+      "url" : "/pages/beat-racer.php",
+      "favorite" : false
+    },
+    "qr" : {
+      "name" : "QR code scanner",
+      "icon" : "https://www.dummies.com/wp-content/uploads/324172.image0.jpg",
+      "url" : "/pages/scanner.php",
+      "favorite" : true
+    }
+  }
+}
